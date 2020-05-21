@@ -15,7 +15,7 @@ class Person
     end
   end
   
-  class Partner Error < StandardError 
+  class PartnerError < StandardError 
     
   end
 end
